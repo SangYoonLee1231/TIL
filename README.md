@@ -1,6 +1,6 @@
 <div align=center>
 
-# ☑ Today I Learned
+# ☑ Today I Learned (Study Note)
 
 ### 기록은 기억을 지배한다.
 
